@@ -1,0 +1,12 @@
+langchain
+langgraph
+langsmith
+openai
+chromadb
+pydantic
+fastapi
+uvicorn
+pytest
+python-dotenv
+langchain-community
+langchain-openai
